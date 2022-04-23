@@ -5,7 +5,7 @@ body {
     height: 350rem;
     background-color: black;
     /* overflow-y: hidden; */
-    zoom:99%;
+
 }
 *{
     box-sizing: border-box;
